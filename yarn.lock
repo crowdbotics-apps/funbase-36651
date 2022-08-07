@@ -1257,7 +1257,10 @@
 "@screens/post@file:./screens/post":
   version "1.0.1"
 
-"@screens/upload-media@file:./screens/upload-media/":
+"@screens/social-feed@file:./screens/social-feed/":
+  version "1.0.0"
+
+"@screens/upload-media@file:./screens/upload-media":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

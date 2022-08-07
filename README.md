@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [screen-chat-listing](screens/chat-listing)
 - [react-native-user-profile](modules/user-profile)
+- [screen-upload-media](screens/upload-media)
 
 # Getting started: Frontend
 

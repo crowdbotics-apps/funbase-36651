@@ -1254,7 +1254,10 @@
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
-"@screens/image-editing-crop@file:./screens/image-editing-crop/":
+"@screens/forgot-password@file:./screens/forgot-password/":
+  version "1.0.0"
+
+"@screens/image-editing-crop@file:./screens/image-editing-crop":
   version "1.0.0"
 
 "@screens/image-filters@file:./screens/image-filters":

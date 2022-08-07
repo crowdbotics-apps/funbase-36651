@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-social-feed](screens/social-feed)
 - [screen-settings](screens/settings)
 - [screen-notifications-preference](screens/notifications-preference)
+- [screen-image-editing-filters](screens/image-filters)
 
 # Getting started: Frontend
 

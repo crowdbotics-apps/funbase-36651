@@ -1254,7 +1254,10 @@
 "@screens/create-post-1@file:./screens/create-post-1":
   version "1.0.0"
 
-"@screens/notifications-preference@file:./screens/notifications-preference/":
+"@screens/image-filters@file:./screens/image-filters/":
+  version "1.0.0"
+
+"@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
 "@screens/post@file:./screens/post":
